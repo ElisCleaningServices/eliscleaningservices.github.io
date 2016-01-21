@@ -1,5 +1,5 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: http://eliscleaningservices.github.io/
+baseurl: 
 
 # Site settings
 title: Elizabeth's Cleaning Services
@@ -62,7 +62,7 @@ color:
 #
 # Postal address (add as many lines as necessary)
 address:
-  - line: Minneapolis, MN 55311  
+  - line: Minneapolis, MN 55311
 
 # Build settings
 markdown: kramdown
