@@ -126,7 +126,8 @@ fieldset[disabled] .btn-primary.active {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 18px;
     font-weight: 700;
-    color: #fff;
+    /*color: #fff;*/
+    color: #333;
     background-color: #{{ site.color.primary }};
 }
 
@@ -264,7 +265,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #fff;
+    /*color: #fff;*/
     background-attachment: scroll;
     background-image: url(img/shutterstock_126865562.jpg);
     background-position: center center;
@@ -329,6 +330,11 @@ section h2.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
     font-size: 40px;
+}
+
+section a.section-subheading-link {
+    color: #333;
+    border-bottom: #333;
 }
 
 section h3.section-subheading {
@@ -661,7 +667,7 @@ section#contact {
 }
 
 section#contact .section-heading {
-    color: #fff;
+    /*color: #fff;*/
 }
 
 section#contact .form-group {
